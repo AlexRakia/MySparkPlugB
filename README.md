@@ -21,7 +21,9 @@ The various “Message Type” defined by Sparkplug specification
 
 • STATE — Sparkplug Host Application state message
 
+Message is Encapsulated via Google's ProtoBuf  & sent to the MQTT supporting SparkPlug.
 
-Specifications:
+
+Deeper Specifications:
 
 https://sparkplug.eclipse.org/specification/
