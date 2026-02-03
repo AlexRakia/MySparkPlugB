@@ -6,14 +6,14 @@ The 8 Key Additions:
 
 📋 Standardized Topic Structure
 
-  Regular MQTT: Everyone makes up their own topics
-  Sparkplug B: spBv1.0/GroupID/MessageType/EdgeNodeID/DeviceID
+  * Regular MQTT: Everyone makes up their own topics
+  * Sparkplug B: spBv1.0/GroupID/MessageType/EdgeNodeID/DeviceID
 
 🗜️ Binary Protocol Buffers
 
-  30-70% smaller payloads
-  . Faster transmission
-  . Better for bandwidth-limited environments
+  * 30-70% smaller payloads
+  * Faster transmission
+  * Better for bandwidth-limited environments
 
 📦 Multiple Values per Message
 
@@ -28,27 +28,27 @@ The 8 Key Additions:
 
 🔢 19 Defined Data Types
 
-  No more guessing "is this a string or number?"
-  Type-safe communication
-  Automatic data conversion
+  * No more guessing "is this a string or number?"
+  * Type-safe communication
+  * Automatic data conversion
 
 💾 Store-and-Forward
 
-  Buffer data during network outages
-  No data loss
-  Critical for remote sites
+  * Buffer data during network outages
+  * No data loss
+  * Critical for remote sites
 
 🔍 Auto-Discovery
 
-  Devices announce themselves
-  No manual configuration
-  Plug-and-play integration
+  * Devices announce themselves
+  * No manual configuration
+  * Plug-and-play integration
 
 🔢 Sequence Numbers
 
-  Detect missed messages
-  Track connection cycles
-  Ensure proper ordering
+  * Detect missed messages
+  * Track connection cycles
+  * Ensure proper ordering
 
 
 ##############################################################
