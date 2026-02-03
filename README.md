@@ -12,19 +12,19 @@ The 8 Key Additions:
 🗜️ Binary Protocol Buffers
 
   30-70% smaller payloads
-  Faster transmission
-  Better for bandwidth-limited environments
+  . Faster transmission
+  . Better for bandwidth-limited environments
 
 📦 Multiple Values per Message
 
-  Regular MQTT: 1 value = 1 message
-  Sparkplug B: 100 values = 1 message
+  * Regular MQTT: 1 value = 1 message
+  * Sparkplug B: 100 values = 1 message
 
 💓 State Management (BIRTH/DEATH)
 
-  Always know if devices are online/offline
-  Automatic notifications via Last Will Testament
-  System-wide state awareness
+  * Always know if devices are online/offline
+  * Automatic notifications via Last Will Testament
+  * System-wide state awareness
 
 🔢 19 Defined Data Types
 
