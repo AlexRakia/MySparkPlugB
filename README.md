@@ -20,3 +20,8 @@ The various “Message Type” defined by Sparkplug specification
 • DCMD — Device command message
 
 • STATE — Sparkplug Host Application state message
+
+
+Specifications:
+
+https://sparkplug.eclipse.org/specification/
